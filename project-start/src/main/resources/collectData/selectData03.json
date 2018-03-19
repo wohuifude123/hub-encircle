@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "theDayUnfinished" : [
+      {"name":"totalOrderAccount", "amount":2338830},
+      {"name":"dateOrderAccount", "amount":955588855},
+      {"name":"totalCommodityAccount", "amount":1555552},
+      {"name":"dateCommodityAccount", "amount":1555552}
+    ],
+    "threeDaysUnfinished" : [
+      {"name":"totalOrderAccount", "amount":888888300},
+      {"name":"totalProductAccount", "amount":830000000}
+    ],
+    "overstock" : [
+      {"name":"totalOrderAccount", "amount":3288888888710}
+    ],
+    "theDaySend" : [
+      {"name":"totalOrderAccount", "amount":8528823},
+      {"name":"totalProductAccount", "amount":6788888123}
+    ],
+    "tableHeader": ["index", "order"],
+    "urgentTableData":[
+
+    ],
+    "skipTableData":[
+    ],
+    "updateTableData":[
+    ]
+  }
+}
